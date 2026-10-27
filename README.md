@@ -24,8 +24,8 @@ chat/
 └─ frontend/    empty — the Angular client is not scaffolded yet
 ```
 
-The backend is committed (`ChatHub.cs`, `Controllers/`); the UI folder was created but
-never filled.
+The backend is committed — `ChatHub.cs` and `Program.cs`, deliberately minimal since the
+hub is the whole point. The UI folder was created but never filled.
 
 ## Run
 
